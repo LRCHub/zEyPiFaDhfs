@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "学校の七不可思議",
+  "base_artist": "桃寝ちのい",
+  "createdAt": "2026-02-08T09:17:32.303043Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "学校の七不可思議",
+      "artist": "桃寝ちのい",
+      "has_synced": false,
+      "path": "select/pl_01_学校の七不可思議_桃寝ちのい.txt"
+    }
+  ]
+}
